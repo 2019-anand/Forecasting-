@@ -1,9 +1,9 @@
 Flowchart: 15.04.2025
 -----------------------------------------------------------------------------------------------------
-1.Data Understanding and exploration
-# For reveling trends and seasonality--> line plots/bar charts/heatmaps
-# Autocorelation plots_ Identification of the dependencies between observation at different time lags.
-2.Feature Engineering and Selection 
+1.Data Understanding and exploration/n
+# For reveling trends and seasonality--> line plots/bar charts/heatmaps/n
+# Autocorelation plots_ Identification of the dependencies between observation at different time lags./n
+2.Feature Engineering and Selection /n
 #creation of new features to capture new important temporal dynamics.
 #Identifying trends,seasonality or cyclic patterns for creation of features like
 a)Moving Averages
